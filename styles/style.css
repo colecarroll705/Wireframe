@@ -4,7 +4,7 @@ h1 {
 }
 
 h2 {
-	font-family: "monaco";
+	font-family: "monaco", "lucida console";
 	text-align: center;
 }
 
@@ -148,4 +148,5 @@ article {
 	font-family: "century gothic";
 	text-align: center;
 	font-size: 20px;
+
 }
